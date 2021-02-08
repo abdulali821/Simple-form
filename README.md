@@ -1,1 +1,1 @@
-# http://abdulali1.me/simple-form/
+# https://abdulali821.github.io/simple-form/
